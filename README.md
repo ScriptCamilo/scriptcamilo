@@ -1,16 +1,10 @@
 ## Hi there 👋
 
-<img src="contactx2.png" />
-
  <br/> :purple_heart: &nbsp; I'm looking to collaborate on web and mobile projects, as front-end and back-end.
  <br/> :books: &nbsp; I’m currently learning Node.js, Electron, ReactJS, React Native, TypeScript...
  <br/> 📫 &nbsp; How to reach me: : [![Linkedin Badge](https://img.shields.io/badge/-RodrigoCamilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-raymundo/)](https://www.linkedin.com/in/rodrigo-raymundo/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-rodrigo.camilo228@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigo.camilo228@gmail.com)](mailto:rodrigo.camilo228@gmail.com)
-
-
-<br/><p align="center">I'm fascinated with game development :video_game: and security :lock:</p>
-<br/><p align="center">FullStack Developer :computer:</p><br/>
 
 <!--
 **Azelve/Azelve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
