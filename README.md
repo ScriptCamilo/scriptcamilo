@@ -6,7 +6,7 @@
 | 
 [![Gmail Badge](https://img.shields.io/badge/-rodrigo.camilo228@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigo.camilo228@gmail.com)](mailto:rodrigo.camilo228@gmail.com)
 
-<img src="secure.png" />
+<img src="security.png" />
 
 <!--
 **Azelve/Azelve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
