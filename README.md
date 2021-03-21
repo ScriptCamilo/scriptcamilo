@@ -1,6 +1,5 @@
 ## Hi there 👋
 
- <br/> :purple_heart: &nbsp; I'm looking to collaborate on open sources projects.
  <br/> :books: &nbsp; I’m currently studying Software Development at <a href="https://betrybe.com">Trybe</a>...
  <br/> 📫 &nbsp; How to reach me: : [![Linkedin Badge](https://img.shields.io/badge/-RodrigoCamilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-raymundo/)](https://www.linkedin.com/in/camilo-rodrigo/) 
 | 
