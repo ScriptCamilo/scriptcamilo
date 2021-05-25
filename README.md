@@ -1,15 +1,16 @@
 <a href="https://github.com/scriptcamilo" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
-<a href="https://www.instagram.com/scriptcamilo/" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a> 
-<a href="https://www.facebook.com/" target="_blank">
-  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
-</a> 
-<a href="https://www.linkedin.com/in/script-camilo/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  <img src="./assets/github.svg" width="48px" height="48px">
 </a>
+<a href="https://www.linkedin.com/in/script-camilo/" target="_blank">
+  <img src="./assets/linkedin.svg" width="48px" height="48px">
+</a>
+<a href="https://www.instagram.com/scriptcamilo/" target="_blank">
+  <img src="./assets/instagram.svg" width="48px" height="48px">
+</a> 
+<a href="https://www.youtube.com/channel/UC_WE22UpNW3zyDSWtiX2ufw" target="_blank">
+  <img src="./assets/youtube.svg" width="48px" height="48px">
+</a> 
+
 
 <br />
 <br />
