@@ -21,7 +21,7 @@ I am a junior Front End developer (aiming Full Stack) that loves the idea of a m
 
 **Talking about Personal Stuffs:**
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
+  <img align="right" alt="GIF" src="./assets/github.gif" width="400px" />
 
 - 👨🏽‍💻 I’m currently a student at [Trybe](https://betrybe.com).
 - 🌱 I’m currently learning React and React Native.
