@@ -25,7 +25,7 @@ I am a junior Front End developer (aiming Full Stack) that loves the idea of a m
 
 - 👨🏽‍💻 I’m currently a student at [Trybe](https://betrybe.com).
 - 🌱 I’m currently learning React and React Native.
-- 🤔 My interests are with hacking, open-source, games, animes, etc...
+- 🤔 My interests are with hacking, open-source, games, etc...
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via script.camilo@gmail.com to reach me.
