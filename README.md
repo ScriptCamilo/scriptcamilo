@@ -19,9 +19,10 @@
 
 I am a junior Front End developer (aiming Full Stack) that loves the idea of a more secure and connected world. I use JavaScript as my main programming language and I have experience working with React, I have also had contact with languages like Python and Java in academic disciplines and projects. 🚀
 
+<img align="right" alt="GIF" src="./assets/github.gif" width="400px" />
+
 **Talking about Personal Stuffs:**
 
-  <img align="right" alt="GIF" src="./assets/github.gif" width="400px" />
 
 - 👨🏽‍💻 I’m currently a student at [Trybe](https://betrybe.com).
 - 🌱 I’m currently learning React and React Native.
