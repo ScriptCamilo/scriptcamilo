@@ -42,4 +42,4 @@ I am a junior Front End developer (aiming Full Stack) that loves the idea of a m
 
 ⭐️ From [Johnatas Henrique](https://github.com/johnatas-henrique)
 
-![](https://hit.yhype.me/github/profile?user_id=43912333)
+<!-- ![](https://hit.yhype.me/github/profile?user_id=43912333) -->
