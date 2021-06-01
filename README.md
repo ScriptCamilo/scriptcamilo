@@ -34,7 +34,7 @@ I am a junior Front End developer (aiming Full Stack) that loves the idea of a m
 <!-- - 📝 See my [Curriculum Vitae](https://gitconnected.com/scriptcamilo/resume) to get more info. -->
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptcamilo&layout=compact&theme=radical" alt="Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptcamilo&layout=compact&theme=radical&langs_count=8" alt="Languages" />
 </p>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=scriptcamilo&count_private=true&show_icons=true&theme=radical" alt="Stats" />
