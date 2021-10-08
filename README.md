@@ -17,7 +17,7 @@
 
 <h1>Salut 🖖🏽</h1>
 
-I am a Front End developer (aiming Full Stack) that loves the idea of a more secure and connected world. I use JavaScript as my main programming language and I have experience working with React, Redux and ContextApi. 🚀
+I am a Software Enginieer student that loves the idea of a more secure and connected world. I use JavaScript as my main programming language and I have experience working with React, Redux and ContextApi. 🚀
 
 <img align="right" alt="GIF" src="./assets/github.gif" width="400px" />
 
