@@ -24,8 +24,8 @@ I am a Software Enginieer student that loves the idea of a more secure and conne
 **Talking about Personal Stuffs:**
 
 
-- 👨🏽‍💻 I’m currently a student at [Trybe](https://betrybe.com).
-- 🌱 I’m currently learning React and React Native.
+- 👨🏽‍💻 I’m currently working at [Trybe](https://betrybe.com).
+- 🌱 I’m currently learning JavaScript at its full potential.
 - 🤔 My interests are with hacking, open source, games, etc...
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I am happy to help.
@@ -33,13 +33,13 @@ I am a Software Enginieer student that loves the idea of a more secure and conne
 - 📝 See my social medias up here to get more info.
 <!-- - 📝 See my [Curriculum Vitae](https://gitconnected.com/scriptcamilo/resume) to get more info. -->
 
-<p>
+<!-- <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptcamilo&layout=compact&theme=radical&langs_count=6" alt="Languages" />
 </p>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=scriptcamilo&count_private=true&show_icons=true&theme=radical" alt="Stats" />
 </p>
 
-⭐️ From [Johnatas Henrique](https://github.com/johnatas-henrique)
+⭐️ From [Johnatas Henrique](https://github.com/johnatas-henrique) -->
 
 <!-- ![](https://hit.yhype.me/github/profile?user_id=43912333) -->
