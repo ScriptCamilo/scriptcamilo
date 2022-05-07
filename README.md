@@ -35,11 +35,11 @@ I am a Software Enginieer student that loves the idea of a more secure and conne
 
 <!-- <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptcamilo&layout=compact&theme=radical&langs_count=6" alt="Languages" />
-</p>
+</p> -->
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=scriptcamilo&count_private=true&show_icons=true&theme=radical" alt="Stats" />
 </p>
 
-⭐️ From [Johnatas Henrique](https://github.com/johnatas-henrique) -->
+<!-- ⭐️ From [Johnatas Henrique](https://github.com/johnatas-henrique) -->
 
 <!-- ![](https://hit.yhype.me/github/profile?user_id=43912333) -->
