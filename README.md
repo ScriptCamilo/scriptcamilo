@@ -27,7 +27,7 @@ I am a Software Enginieer student that loves the idea of a more secure and conne
 - 👨🏽‍💻 I’m currently working at [Trybe](https://betrybe.com).
 - 🌱 I’m currently learning JavaScript at its full potential.
 - 🤔 My interests are with hacking, open source, games, etc...
-- 💼 I’m pursuing a to better and better every day.
+- 💼 I’m pursuing to be better and better every day.
 - 💬 Ask me about anything, I'll be glad to help.
 - 📫 Please email via script.camilo@gmail.com to reach me.
 - 📝 See my social medias up here to get more info.
