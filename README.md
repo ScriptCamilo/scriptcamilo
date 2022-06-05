@@ -32,6 +32,10 @@ I am a Software Enginieer student that loves the idea of a more secure and conne
 - 📫 Please email via script.camilo@gmail.com to reach me.
 - 📝 See my social medias up here to get more info.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=scriptcamilo&count_private=true&show_icons=true&theme=radical" alt="Stats"/>
+<hr/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptcamilo&layout=default&theme=radical&langs_count=6" alt="Languages"/>
+<div style="display: flex; ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scriptcamilo&count_private=true&show_icons=true&theme=radical" alt="Stats"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptcamilo&layout=compact&theme=radical&langs_count=6" alt="Languages"/>
+</div>
