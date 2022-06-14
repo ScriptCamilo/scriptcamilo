@@ -17,7 +17,7 @@
 
 <h1>Salut 🖖🏽</h1>
 
-I am a Software Enginieer student that loves the idea of a more secure and connected world. I use JavaScript as my main program language and I have experience working with ReactJS, React Native and NodeJS. 🚀
+I am a Software Engineer student that loves the idea of a more secure and connected world. I use JavaScript as my main program language and I have experience working with ReactJS, React Native and NodeJS. 🚀
 
 <!-- <img align="right" alt="GIF" src="./assets/github.gif" width="400px" /> -->
 
