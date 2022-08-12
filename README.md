@@ -24,7 +24,7 @@ I am a Software Engineer student that loves the idea of a more secure and connec
 **Talking about Personal Stuffs:**
 
 
-- 👨🏽‍💻 I’m currently working at [Trybe](https://betrybe.com).
+- 👨🏽‍💻 I’m currently open to work.
 - 🌱 I’m currently learning JavaScript at its full potential.
 - 🤔 My interests are with hacking, open source, games, etc...
 - 💼 I’m pursuing to be better and better every day.
