@@ -17,7 +17,11 @@
 
 <h1>Salut 🖖🏽</h1>
 
-I am a Software Engineer student that loves the idea of a more secure and connected world. I use JavaScript as my main programming language and I have experience working with ReactJS, React Native and NodeJS. 🚀
+💼 I'm a Full-Stack developer with knowledge in web development technologies using React and Nodejs. My biggest professional experience was working with Frontend and I learned a lot using Design System and Monorepo. Nowadays I am looking to work a little more with Backend and be able to develop even more in the area, currently I'm improving myself using Javascript, but if necessary I'd love to learn another programming language.
+
+📚 During my studies I had the opportunity to have contact with technologies such as SQL, MongoDB, Python, Java, Electron, among others. In addition to being able to have also studied data structure, object-oriented programming and design patterns.
+
+👨🏽‍💻 I intend to improve myself even more in the Javascript ecosystem focused on Nodejs, React and React Native, working as a Backend or Full-Stack developer.
 
 <!-- <img align="right" alt="GIF" src="./assets/github.gif" width="400px" /> -->
 
