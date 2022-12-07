@@ -19,7 +19,7 @@
 
 💼 I'm a Full-Stack developer with knowledge in web development technologies using React and Nodejs. My biggest professional experience was working with Frontend and I learned a lot using Design System and Monorepo. Nowadays I am looking to work a little more with Backend and be able to develop even more in the area, currently I'm improving myself using Javascript, but if necessary I'd love to learn another programming language.
 
-📚 During my studies I had the opportunity to have contact with technologies such as SQL, MongoDB, Python, Java, Electron, among others. In addition to being able to have also studied data structure, object-oriented programming and design patterns.
+📚 Some of my main learnings are Docker and Docker Compose, Git, GitHub, JWT authentication, using express with Nodejs to create microservices and RESTful APIs, unit testing and E2E, SOLID principles, MSC software architecture, continuous integration and delivery CI/CD, relational and non-relational databases such as MySQL and MongoDB, use of ORM, Sequelize and Prisma, agile development practice with Scrum and Kanban, semantic HTML and CSS, React class and hooks, state management with Context API and Redux, Next.js, CSS-in-JS, OOP, JavaScript, TypeScript and Python.
 
 👨🏽‍💻 I intend to improve myself even more in the Javascript ecosystem focused on Nodejs, React and React Native, working as a Backend or Full-Stack developer.
 
