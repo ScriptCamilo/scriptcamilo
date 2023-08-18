@@ -28,9 +28,9 @@
 **Talking about Personal Stuffs:**
 
 
-- 👨🏽‍💻 I’m currently open to work.
+- 👨🏽‍💻 I’m currently working my best at DeskRio.
 - 🌱 I’m currently learning JavaScript at its full potential.
-- 🤔 My interests are with hacking, open source, games, etc...
+- 🤔 My interests are with hacking, opensource, games, sports, etc...
 - 💼 I’m pursuing to be better and better every day.
 - 💬 Ask me about anything, I'll be glad to help.
 - 📫 Please email via script.camilo@gmail.com to reach me.
