@@ -27,8 +27,6 @@
 
 **Talking about Personal Stuffs:**
 
-
-- 👨🏽‍💻 I’m currently working my best at DeskRio.
 - 🌱 I’m currently learning JavaScript at its full potential.
 - 🤔 My interests are with hacking, opensource, games, sports, etc...
 - 💼 I’m pursuing to be better and better every day.
@@ -39,7 +37,7 @@
 <hr/>
 
 <div style="display: flex; ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scriptcamilo&count_private=true&show_icons=true&theme=radical" alt="Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scriptcamilo&count_prte=true&show_icons=true&theme=radical" alt="Stats"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptcamilo&layout=compact&theme=radical&langs_count=6" alt="Languages"/>
 </div>
