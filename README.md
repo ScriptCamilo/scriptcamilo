@@ -1,7 +1,7 @@
 <a href="https://github.com/scriptcamilo" target="_blank">
   <img src="./assets/github.svg" width="48px" height="48px">
 </a>
-<a href="https://www.linkedin.com/in/script-camilo/" target="_blank">
+<a href="https://www.linkedin.com/in/scriptcamilo/" target="_blank">
   <img src="./assets/linkedin.svg" width="48px" height="48px">
 </a>
 <a href="https://www.instagram.com/scriptcamilo/" target="_blank">
