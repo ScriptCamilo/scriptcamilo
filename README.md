@@ -25,14 +25,19 @@
 
 <!-- <img align="right" alt="GIF" src="./assets/github.gif" width="400px" /> -->
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
-- 🌱 I’m currently learning JavaScript at its full potential.
-- 🤔 My interests are with security, opensource, games, sports, etc...
-- 💼 I’m pursuing to be better and better every day.
-- 💬 Ask me about anything, I'll be glad to help.
-- 📫 Please email via script.camilo@gmail.com to reach me.
-- 📝 See my social medias up here to get more info.
+🌱 I’m currently diving deep into JavaScript to unlock its full potential.
+
+🤔 I have a keen interest in security, open-source projects, gaming, sports, and more.
+
+💼 I strive to improve myself every day, both personally and professionally.
+
+💬 Feel free to ask me anything—I’m always happy to help.
+
+📫 You can reach me via email at script.camilo@gmail.com.
+
+📝 Check out my social media profiles above for more information.
 
 <hr/>
 
