@@ -1,20 +1,3 @@
-<a href="https://github.com/scriptcamilo" target="_blank">
-  <img src="./assets/github.svg" width="48px" height="48px">
-</a>
-<a href="https://www.linkedin.com/in/scriptcamilo/" target="_blank">
-  <img src="./assets/linkedin.svg" width="48px" height="48px">
-</a>
-<a href="https://www.instagram.com/scriptcamilo/" target="_blank">
-  <img src="./assets/instagram.svg" width="48px" height="48px">
-</a> 
-<a href="https://www.youtube.com/channel/UC_WE22UpNW3zyDSWtiX2ufw" target="_blank">
-  <img src="./assets/youtube.svg" width="48px" height="48px">
-</a> 
-
-
-<br />
-<br />
-
 <h1>Salut 🖖🏽</h1>
 
 💼 I’m a Full-Stack developer with extensive knowledge in web development technologies using NodeJS, such as ReactJS, Express.js, NestJS, and Next.js. My most significant professional experience has been working as a Full-Stack developer, where I’ve gained comprehensive insights into the entire software life cycle. I am committed to continuously improving my skills as a software engineer.
