@@ -2,10 +2,10 @@
 
 💼 I’m a Backend Software Developer with solid experience building scalable server-side applications using Node.js and TypeScript. My background as a Full-Stack developer gave me a strong understanding of the entire software lifecycle, but my current focus is on backend architecture, APIs, and system reliability.
 
-👨🏽‍💻 **Main focus**
+**👨🏽‍💻 Main focus**
 Designing, developing, maintaining RESTful APIs, microservices, automated workflows, and backend services that support scalable web applications.
 
-🧩 **Backend stack**
+**🧩 Backend stack**
 - ✅ Node.js | JavaScript | TypeScript
 - ✅ NestJS | Express.js
 - ✅ RESTful APIs | Microservices
@@ -13,7 +13,7 @@ Designing, developing, maintaining RESTful APIs, microservices, automated workfl
 - ✅ PostgreSQL | MongoDB | MySQL
 - ✅ TypeORM | Prisma | Sequelize
 
-⚙️ **Async processing, automation & architecture**
+**⚙️ Async processing, automation & architecture**
 - ✅ Redis (caching / queue storage)
 - ✅ BullMQ (queues, workers, scheduled jobs)
 - ✅ Workflow automation with n8n (integrations, webhooks, background workflows)
@@ -23,17 +23,17 @@ Designing, developing, maintaining RESTful APIs, microservices, automated workfl
 - ✅ Git | GitHub
 - ✅ Agile practices: Scrum & Kanban
 
-☁️ **Infrastructure & deployment**
+**☁️ Infrastructure & deployment**
 - ✅ Docker | Docker Compose
 - ✅ AWS EC2 | Serverless
 
-🎨 **Frontend experience (supporting role)**\
+**🎨 Frontend experience (supporting role)**\
 - ✅ React (Classes & Hooks) | Next.js
 - ✅ State management with Context API & Redux
 - ✅ Semantic HTML & CSS | CSS-in-JS
 - ✅ Frontend integration with backend APIs
 
-🧠 **Personal notes**
+**🧠 Personal notes**
 - 🌱 Continuously deepening my expertise in backend development and the JavaScript ecosystem
 - 🤔 Interested in security, system design, and open-source projects
 - 💬 Always open to knowledge exchange and collaboration
