@@ -6,38 +6,38 @@
 Designing, developing, maintaining RESTful APIs, microservices, automated workflows, and backend services that support scalable web applications.
 
 🧩 **Backend stack**
-=✅ Node.js | JavaScript | TypeScript
-=✅ NestJS | Express.js
-=✅ RESTful APIs | Microservices
-=✅ JWT Authentication
-=✅ PostgreSQL | MongoDB | MySQL
-=✅ TypeORM | Prisma | Sequelize
+= ✅ Node.js | JavaScript | TypeScript
+= ✅ NestJS | Express.js
+= ✅ RESTful APIs | Microservices
+= ✅ JWT Authentication
+= ✅ PostgreSQL | MongoDB | MySQL
+= ✅ TypeORM | Prisma | Sequelize
 
 ⚙️ **Async processing, automation & architecture**
-=✅ Redis (caching / queue storage)
-=✅ BullMQ (queues, workers, scheduled jobs)
-=✅ Workflow automation with n8n (integrations, webhooks, background workflows)
-=✅ SOLID principles | OOP | MSC architecture
-=✅ Unit Testing & E2E
-=✅ CI/CD pipelines
-=✅ Git | GitHub
-=✅ Agile practices: Scrum & Kanban
+= ✅ Redis (caching / queue storage)
+= ✅ BullMQ (queues, workers, scheduled jobs)
+= ✅ Workflow automation with n8n (integrations, webhooks, background workflows)
+= ✅ SOLID principles | OOP | MSC architecture
+= ✅ Unit Testing & E2E
+= ✅ CI/CD pipelines
+= ✅ Git | GitHub
+= ✅ Agile practices: Scrum & Kanban
 
 ☁️ **Infrastructure & deployment**
-=✅ Docker | Docker Compose
-=✅ AWS EC2 | Serverless
+= ✅ Docker | Docker Compose
+= ✅ AWS EC2 | Serverless
 
 🎨 **Frontend experience (supporting role)**\
-=✅ React (Classes & Hooks) | Next.js
-=✅ State management with Context API & Redux
-=✅ Semantic HTML & CSS | CSS-in-JS
-=✅ Frontend integration with backend APIs
+= ✅ React (Classes & Hooks) | Next.js
+= ✅ State management with Context API & Redux
+= ✅ Semantic HTML & CSS | CSS-in-JS
+= ✅ Frontend integration with backend APIs
 
 🧠 **Personal notes**
-=🌱 Continuously deepening my expertise in backend development and the JavaScript ecosystem
-=🤔 Interested in security, system design, and open-source projects
-=💬 Always open to knowledge exchange and collaboration
-=📫 Contact: script.camilo@gmail.com
+= 🌱 Continuously deepening my expertise in backend development and the JavaScript ecosystem
+= 🤔 Interested in security, system design, and open-source projects
+= 💬 Always open to knowledge exchange and collaboration
+= 📫 Contact: script.camilo@gmail.com
 
 <hr/>
 
