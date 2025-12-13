@@ -1,26 +1,43 @@
 <h1>Salut 🖖🏽</h1>
 
-💼 I’m a Full-Stack developer with extensive knowledge in web development technologies using NodeJS, such as ReactJS, Express.js, NestJS, and Next.js. My most significant professional experience has been working as a Full-Stack developer, where I’ve gained comprehensive insights into the entire software life cycle. I am committed to continuously improving my skills as a software engineer.
+💼 I’m a Backend Software Developer with solid experience building scalable server-side applications using Node.js and TypeScript. My background as a Full-Stack developer gave me a strong understanding of the entire software lifecycle, but my current focus is on backend architecture, APIs, and system reliability.
 
-📚 Some of my key learnings include Docker and Docker Compose, AWS EC2, Serverless, Git, GitHub, JWT authentication, creating microservices and RESTful APIs with Express and NodeJS, unit testing and E2E, SOLID principles, MSC software architecture, continuous integration and delivery (CI/CD), relational and non-relational databases such as PostgreSQL and MongoDB, ORM tools like Sequelize and Prisma, agile development practices with Scrum and Kanban, semantic HTML and CSS, React class and hooks, state management with Context API and Redux, Next.js, CSS-in-JS, OOP, JavaScript, TypeScript, and C#.
+👨🏽‍💻 **Main focus**
+Designing, developing, maintaining RESTful APIs, microservices, automated workflows, and backend services that support scalable web applications.
 
-👨🏽‍💻 I am particularly focused on enhancing my expertise in the JavaScript ecosystem, aiming to excel as a Backend or Full-Stack developer.
+🧩 **Backend stack**
+✅ Node.js | JavaScript | TypeScript
+✅ NestJS | Express.js
+✅ RESTful APIs | Microservices
+✅ JWT Authentication
+✅ PostgreSQL | MongoDB | MySQL
+✅ TypeORM | Prisma | Sequelize
 
-<!-- <img align="right" alt="GIF" src="./assets/github.gif" width="400px" /> -->
+⚙️ **Async processing, automation & architecture**
+✅ Redis (caching / queue storage)
+✅ BullMQ (queues, workers, scheduled jobs)
+✅ Workflow automation with n8n (integrations, webhooks, background workflows)
+✅ SOLID principles | OOP | MSC architecture
+✅ Unit Testing & E2E
+✅ CI/CD pipelines
+✅ Git | GitHub
+✅ Agile practices: Scrum & Kanban
 
-**Talking about Personal Stuff:**
+☁️ **Infrastructure & deployment**
+✅ Docker | Docker Compose
+✅ AWS EC2 | Serverless
 
-🌱 I’m currently diving deep into JavaScript to unlock its full potential.
+🎨 **Frontend experience (supporting role)**
+✅ React (Classes & Hooks) | Next.js
+✅ State management with Context API & Redux
+✅ Semantic HTML & CSS | CSS-in-JS
+✅ Frontend integration with backend APIs
 
-🤔 I have a keen interest in security, open-source projects, gaming, sports, and more.
-
-💼 I strive to improve myself every day, both personally and professionally.
-
-💬 Feel free to ask me anything—I’m always happy to help.
-
-📫 You can reach me via email at script.camilo@gmail.com.
-
-📝 Check out my social media profiles above for more information.
+🧠 **Personal notes**
+🌱 Continuously deepening my expertise in backend development and the JavaScript ecosystem
+🤔 Interested in security, system design, and open-source projects
+💬 Always open to knowledge exchange and collaboration
+📫 Contact: script.camilo@gmail.com
 
 <hr/>
 
