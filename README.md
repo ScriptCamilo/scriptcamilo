@@ -27,7 +27,7 @@ Designing, developing, maintaining RESTful APIs, microservices, automated workfl
 ✅ Docker | Docker Compose
 ✅ AWS EC2 | Serverless
 
-🎨 **Frontend experience (supporting role)**
+🎨 **Frontend experience (supporting role)**\
 ✅ React (Classes & Hooks) | Next.js
 ✅ State management with Context API & Redux
 ✅ Semantic HTML & CSS | CSS-in-JS
