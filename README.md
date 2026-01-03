@@ -1,5 +1,10 @@
 <h1>Salut 🖖🏽</h1>
 
+<p align="center">
+  <img src="assets/ChatGPT Image 2 de jan. de 2026, 19_02_03.png" width="600" />
+</p>
+
+
 💼 I’m a Backend Software Developer with solid experience building scalable server-side applications using Node.js and TypeScript. My background as a Full-Stack developer gave me a strong understanding of the entire software lifecycle, but my current focus is on backend architecture, APIs, and system reliability.
 
 **👨🏽‍💻 Main focus**
@@ -38,11 +43,3 @@ Designing, developing, maintaining RESTful APIs, microservices, automated workfl
 - 🤔 Interested in security, system design, and open-source projects
 - 💬 Always open to knowledge exchange and collaboration
 - 📫 Contact: script.camilo@gmail.com
-
-<hr/>
-
-<div style="display: flex; ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scriptcamilo&count_prte=true&show_icons=true&theme=radical" alt="Stats"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptcamilo&layout=compact&theme=radical&langs_count=6" alt="Languages"/>
-</div>
