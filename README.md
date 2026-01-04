@@ -1,7 +1,7 @@
 <h1>Salut 🖖🏽</h1>
 
 <p align="center">
-  <img src="assets/ChatGPT Image 2 de jan. de 2026, 19_02_03.png" width="600" />
+  <img src="assets/cover.png" width="600" />
 </p>
 
 
