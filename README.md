@@ -5,41 +5,41 @@
 </p>
 
 
-💼 I’m a Backend Software Developer with solid experience building scalable server-side applications using Node.js and TypeScript. My background as a Full-Stack developer gave me a strong understanding of the entire software lifecycle, but my current focus is on backend architecture, APIs, and system reliability.
+💼 I’m a **Frontend Software Engineer** with strong experience building modern web applications using **React, Next.js, and TypeScript**. My background as a Full-Stack developer gives me a solid understanding of the entire software lifecycle, allowing me to build interfaces that are intuitive, scalable, and well-integrated with backend systems.
 
-**👨🏽‍💻 Main focus**
-Designing, developing, maintaining RESTful APIs, microservices, automated workflows, and backend services that support scalable web applications.
+**👨🏽‍💻 Main focus**  
+Designing and developing **responsive, high-performance user interfaces**, focusing on usability, maintainability, and seamless integration with APIs.
 
-**🧩 Backend stack**
-- ✅ Node.js | JavaScript | TypeScript
-- ✅ NestJS | Express.js
-- ✅ RESTful APIs | Microservices
-- ✅ JWT Authentication
-- ✅ PostgreSQL | MongoDB | MySQL
-- ✅ TypeORM | Prisma | Sequelize
+**🎨 Frontend stack**
+- ✅ React (Hooks & modern patterns) | Next.js
+- ✅ TypeScript | JavaScript
+- ✅ State management (Context API, Redux)
+- ✅ CSS-in-JS | Responsive Design
+- ✅ Tailwind CSS
+- ✅ Semantic HTML & CSS
 
-**⚙️ Async processing, automation & architecture**
-- ✅ Redis (caching / queue storage)
-- ✅ BullMQ (queues, workers, scheduled jobs)
-- ✅ Workflow automation with n8n (integrations, webhooks, background workflows)
-- ✅ SOLID principles | OOP | MSC architecture
-- ✅ Unit Testing & E2E
-- ✅ CI/CD pipelines
+**⚙️ Frontend engineering & architecture**
+- ✅ Component-driven architecture
+- ✅ Performance optimization & rendering strategies
+- ✅ API integration & data fetching (REST)
+- ✅ Testing (React Testing Library, Jest)
+- ✅ Design systems & reusable components
 - ✅ Git | GitHub
 - ✅ Agile practices: Scrum & Kanban
 
 **☁️ Infrastructure & deployment**
 - ✅ Docker | Docker Compose
 - ✅ AWS EC2 | Serverless
+- ✅ Vercel
+- ✅ Supabase
 
-**🎨 Frontend experience (supporting role)**\
-- ✅ React (Classes & Hooks) | Next.js
-- ✅ State management with Context API & Redux
-- ✅ Semantic HTML & CSS | CSS-in-JS
-- ✅ Frontend integration with backend APIs
+**🔗 Backend & integration (supporting strength)**\
+- ✅ Experience building and consuming REST APIs
+- ✅ Understanding of backend architecture and data flows
+- ✅ Familiar with Node.js, databases, and async processing
+- ✅ Ability to collaborate across frontend and backend layers
 
 **🧠 Personal notes**
-- 🌱 Continuously deepening my expertise in backend development and the JavaScript ecosystem
-- 🤔 Interested in security, system design, and open-source projects
+- 🌱 Continuously deepening my expertise in frontend development and modern web technologies
+- 🤔 Interested in security, performance, and open-source
 - 💬 Always open to knowledge exchange and collaboration
-- 📫 Contact: script.camilo@gmail.com
