@@ -33,7 +33,7 @@ Designing and developing **responsive, high-performance user interfaces**, focus
 - ✅ Vercel
 - ✅ Supabase
 
-**🔗 Backend & integration (supporting strength)**\
+**🔗 Backend & integration (supporting strength)**
 - ✅ Experience building and consuming REST APIs
 - ✅ Understanding of backend architecture and data flows
 - ✅ Familiar with Node.js, databases, and async processing
