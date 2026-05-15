@@ -5,41 +5,57 @@
 </p>
 
 
-💼 I’m a **Frontend Software Engineer** with strong experience building modern web applications using **React, Next.js, and TypeScript**. My background as a Full-Stack developer gives me a solid understanding of the entire software lifecycle, allowing me to build interfaces that are intuitive, scalable, and well-integrated with backend systems.
+💼 I’m a **Software Engineer** focused on building modern and scalable applications across web, mobile, and desktop platforms. My experience spans frontend, backend, and product development, allowing me to work through the entire software lifecycle — from interface design to system architecture and integrations.
 
 **👨🏽‍💻 Main focus**  
-Designing and developing **responsive, high-performance user interfaces**, focusing on usability, maintainability, and seamless integration with APIs.
+Designing and developing reliable software solutions with a strong emphasis on frontend engineering, user experience, system integration, and maintainable architecture.
 
-**🎨 Frontend stack**
+**🎨 Frontend & cross-platform stack**
 - ✅ React (Hooks & modern patterns) | Next.js
+- ✅ React Native
+- ✅ Preact | Fresh
+- ✅ Tauri
+- ✅ Vite
 - ✅ TypeScript | JavaScript
-- ✅ State management (Context API, Redux)
-- ✅ CSS-in-JS | Responsive Design
-- ✅ Tailwind CSS
+- ✅ State management (Context API, Redux, Signals)
+- ✅ CSS-in-JS | Tailwind CSS | Responsive Design
 - ✅ Semantic HTML & CSS
-
-**⚙️ Frontend engineering & architecture**
 - ✅ Component-driven architecture
-- ✅ Performance optimization & rendering strategies
-- ✅ API integration & data fetching (REST)
-- ✅ Testing (React Testing Library, Jest)
-- ✅ Design systems & reusable components
+- ✅ Islands architecture
+- ✅ Design Systems & reusable components
+
+**🧩 Backend & full-stack experience**
+- ✅ Node.js | Express.js | NestJS
+- ✅ Deno | OAK | Hono
+- ✅ RESTful APIs | Authentication | Integrations
+- ✅ PostgreSQL | MongoDB | MySQL
+- ✅ Supabase
+- ✅ Prisma | Sequelize | TypeORM
+- ✅ Redis | BullMQ
+- ✅ Workflow automation with n8n
+
+**⚙️ Software engineering & architecture**
+- ✅ Scalable application architecture
+- ✅ API integration & data flow design
+- ✅ Performance optimization
+- ✅ Unit Testing & E2E
+- ✅ SOLID principles | OOP | MSC architecture
+- ✅ CI/CD pipelines
 - ✅ Git | GitHub
 - ✅ Agile practices: Scrum & Kanban
 
 **☁️ Infrastructure & deployment**
 - ✅ Docker | Docker Compose
-- ✅ AWS EC2 | Serverless
-- ✅ Vercel
-- ✅ Supabase
+- ✅ AWS EC2 | Serverless | Edge Functions
+- ✅ Deno Deploy
 
-**🔗 Backend & integration (supporting strength)**
-- ✅ Experience building and consuming REST APIs
-- ✅ Understanding of backend architecture and data flows
-- ✅ Familiar with Node.js, databases, and async processing
-- ✅ Ability to collaborate across frontend and backend layers
+**🤖 AI-assisted development**
+- ✅ Cursor | GitHub Copilot | AI coding assistants
+- ✅ AI-assisted workflows for refactoring, debugging, testing, and documentation
+- ✅ Critical validation of AI-generated solutions to maintain code quality and architectural consistency
 
 **🧠 Personal notes**
-- 🌱 Continuously deepening my expertise in frontend development and modern web technologies
-- 🤔 Interested in security, performance, and open-source
+- 🌱 Continuously evolving as a software engineer with growing interests in frontend architecture, mobile development, desktop applications, and modern web runtimes
+- 🤔 Interested in open source, performance, developer experience, and scalable applications
 - 💬 Always open to knowledge exchange and collaboration
+- 📫 Contact: script.camilo@gmail.com
