@@ -5,10 +5,11 @@
 </p>
 
 
-💼 I’m a **Software Engineer** focused on building modern and scalable applications across web, mobile, and desktop platforms. My experience spans frontend, backend, and product development, allowing me to work through the entire software lifecycle — from interface design to system architecture and integrations.
+💼 I’m a **Software Engineer** with experience building scalable and modern applications across web, mobile, and desktop platforms. Experienced throughout the software development lifecycle, from product and interface development to APIs, integrations, infrastructure, and system architecture.
 
-**👨🏽‍💻 Main focus**  
-Designing and developing reliable software solutions with a strong emphasis on frontend engineering, user experience, system integration, and maintainable architecture.
+Worked on SaaS platforms, fintech products, and omnichannel communication systems, contributing to scalable applications, automation workflows, distributed integrations, and production-grade systems.
+
+Focused on building maintainable software solutions, improving developer experience, optimizing performance, and continuously evolving across modern technologies and software architecture practices.
 
 **🎨 Frontend & cross-platform stack**
 - ✅ React (Hooks & modern patterns) | Next.js
