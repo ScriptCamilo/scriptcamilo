@@ -10,8 +10,8 @@ Outside of work, I enjoy creating independent software, contributing to open sou
 
 ## Current Focus
 
-- 🦕 Deno
-- ⚡ TypeScript
+- 🦕 Deno / Node.js
+- ⚡ TypeScript / JavaScript / Rust
 - 🏗️ Backend Architecture
 - 🎬 Screenly
 - 📦 Open Source
@@ -19,7 +19,7 @@ Outside of work, I enjoy creating independent software, contributing to open sou
 ## Featured Projects
 
 - Screenly
-- ...
+- Nestjs Deno Template
 - ...
 
 ## Support
