@@ -19,7 +19,7 @@ Outside of work, I enjoy creating independent software, contributing to open sou
 ## Featured Projects
 
 - Screenly
-- Nestjs Deno Template
+- Deno NestJS Template
 - ...
 
 ## Support
