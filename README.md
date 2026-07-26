@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="/assets/night-hall.png" width="600" />
-</p>
-
 # Hi, I'm ScriptCamilo 👋
 
 Backend-focused JavaScript/TypeScript developer exploring the Deno ecosystem and building modern web applications.
