@@ -16,12 +16,6 @@ Outside of work, I enjoy creating independent software, contributing to open sou
 - 🎬 Screenly
 - 📦 Open Source
 
-## Featured Projects
-
-- Screenly
-- Deno NestJS Template
-- ...
-
 ## Support
 
 If one of my projects has been useful to you, or if you'd like to support my work as an independent developer:
