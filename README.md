@@ -7,6 +7,7 @@ Outside of work, I enjoy creating independent software, contributing to open sou
 ## Current Focus
 
 - 🦕 Deno / Node.js
+- 🦀 Rust
 - ⚡ TypeScript / JavaScript
 - 🏗️ Backend Architecture
 - 🎬 Screenly
