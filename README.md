@@ -1,13 +1,16 @@
 # Hi, I'm ScriptCamilo 👋
 
-Backend-focused JavaScript/TypeScript developer building modern web applications.
+Software engineer interested in systems programming, infrastructure, and open source.
 
-Outside of work, I enjoy creating independent software, contributing to open source and sharing what I learn through practical projects.
+Coming from a JavaScript/TypeScript backend background, I'm now exploring Rust, Python, Linux, cloud infrastructure, networking, and security.
+
+I enjoy self-hosting software, experimenting with new technologies, and learning by building and breaking things.
 
 ## Current Focus
 
-- 🦕 Deno / Node.js
-- ⚡ TypeScript / JavaScript
-- 🏗️ Backend Architecture
-- 🎬 Screenly
-- 📦 Open Source
+- 🦀 Rust
+- 🐍 Python
+- 🐧 Linux & Systems
+- ☁️ DevOps & Cloud
+- 🌐 Networking & Security
+- 📦 Open Source & Self-Hosting
