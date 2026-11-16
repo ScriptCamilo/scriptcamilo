@@ -1,15 +1,13 @@
 # Hi, I'm ScriptCamilo 👋
 
-Software engineer interested in systems programming, infrastructure, and open source.
+Software Engineer focused on Backend, Full Stack, Systems & Infrastructure.
 
-Coming from a JavaScript/TypeScript backend background, I'm now exploring Rust, Python, Linux, cloud infrastructure, networking, and security.
-
-I enjoy self-hosting software, experimenting with new technologies, and learning by building and breaking things.
+Experienced with Node.js, TypeScript, and React, currently diving deeper into Rust to explore systems programming and build useful applications, developer tools, and infrastructure software.
 
 ## Current Focus
 
 - 🦀 Rust
-- 🐍 Python
+- 🐢 Node.js
 - 🐧 Linux & Systems
 - ☁️ DevOps & Cloud
 - 🌐 Networking & Security
